@@ -47,7 +47,7 @@ width:100%;
 
 .descricao__titulo{
     color: var(--laranja);
-    font-weight: 700;
+    font-weight: 900;
 }
 
 .descricao__titulo-livro{
@@ -71,4 +71,9 @@ width:100%;
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
+}
+
+.card__estrela{
+    margin-left: 0 ;
+    margin-bottom: 0.5em;
 }
